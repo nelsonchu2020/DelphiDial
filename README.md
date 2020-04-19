@@ -10,3 +10,7 @@ Very baisc work on bridging the Dial API for use from Delphi. Currently it can d
 TODO:
 1. Make it possible to send menu item string from Delphi to VC in order to create custom menu from Delphi. 
 2. On-screen usage of the Dial.
+
+Reference:
+https://github.com/microsoft/Windows-classic-samples/tree/master/Samples/RadialController
+https://github.com/megayuchi/RadialController
